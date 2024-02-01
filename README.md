@@ -25,9 +25,7 @@ RELIGION AND POPULAR CULTURE
 ## Mathematics Courses
 CALCULUS FOR THE LIFE SCIENCE II
 
-## List of Computational Courses
-
-# Premedical Biomedical Informatics B.S
+## List of Computational Courses (Undergrad - level)
 INFORMATION INFRASTRUCTURE I	</br>
 EXPLORE INFORMATICS & COMPUTER SCIENCE	</br>
 DATABASE DESIGN HEALTH INFORMATION MANAGEMENT	</br>
@@ -37,7 +35,7 @@ DESIGN & DEVELOPMENT OF INFORMATION SYSTEM </br>
 DATA MINING </br>
 
 
-# Bioinformatics M.S. (Thesis route)
+## Bioinformatics courses (Graduate-level)
  BIOLOGICAL DATABASE MANAGEMENT	</br>
  BIOMEDICAL INFORMATICS </br>
  COMPUTATIONAL ANALYSIS OF HIGH-THROUGHPUT BIOMEDICAL DATA </br>
