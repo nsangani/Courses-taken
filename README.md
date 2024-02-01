@@ -1,4 +1,5 @@
 # Courses-taken
+Being a premed student, I had the opportunity to take several science classes on top of my computational coursework. Given my background, I'm able to approach computational biology projects from a molecular science standpoint. Therefore, allowing me to connect with both experimentalists and bioinformaticians. 
 
 ## List of Science Courses
 
