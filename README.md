@@ -25,7 +25,7 @@ RELIGION AND POPULAR CULTURE
 ## Mathematics Courses
 CALCULUS FOR THE LIFE SCIENCE II
 
-## List of Computational Courses (Undergrad - level)
+## List of Computational Courses (Undergrad-level)
 INFORMATION INFRASTRUCTURE I	</br>
 EXPLORE INFORMATICS & COMPUTER SCIENCE	</br>
 DATABASE DESIGN HEALTH INFORMATION MANAGEMENT	</br>
