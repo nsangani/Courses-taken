@@ -1,5 +1,5 @@
 # Courses-taken
-Being a premed student, I had the opportunity to take several science classes on top of my computational coursework. Given my background, I'm able to approach computational biology projects from a molecular science standpoint. Therefore, allowing me to connect with both experimentalists and bioinformaticians. 
+I had the opportunity to take several science classes on top of my computational coursework because of my early interest in medicine. I can approach computational biology projects from a molecular science standpoint with expertise to analyze heterogeneous biological datasets and build robust computational pipelines. This allows me to connect with experimentalists and bioinformaticians/statisticians and collaborate on interdisciplinary projects. 
 
 ## List of Science Courses
 
@@ -16,15 +16,15 @@ INTRO TO SOCIOLOGY </br>
 PRINCIPLES OF ECOLOGY & EVOLUTION LECTURE/LAB </br>
 
 ## List of Computational Courses (Undergrad-level)
-INFORMATION INFRASTRUCTURE I/II	</br>
+INFORMATION INFRASTRUCTURE I/II (Python basics and libraries - pandas, numpy, scikit-learn, seaborn, etc.)	</br>
 EXPLORE INFORMATICS & COMPUTER SCIENCE	</br>
-DATABASE DESIGN HEALTH INFORMATION MANAGEMENT	</br>
-DATA REPRESENTATION ORGANIZATION</br>
+DATABASE DESIGN HEALTH INFORMATION MANAGEMENT	(MySQL) </br>
+DATA REPRESENTATION ORGANIZATION  (Advanced Python - Recursive fuc., OOP, etc.) </br>
 DESIGN & DEVELOPMENT OF INFORMATION SYSTEM </br>
 DATA MINING </br>
 
 ## Bioinformatics courses (Graduate-level)
- BIOLOGICAL DATABASE MANAGEMENT	</br>
+ BIOLOGICAL DATABASE MANAGEMENT	(MySQL/Workbench) </br>
  BIOMEDICAL INFORMATICS </br>
  COMPUTATIONAL ANALYSIS OF HIGH-THROUGHPUT BIOMEDICAL DATA </br>
  PROGRAMMING FOR SCIENCE INFORMATICS </br>
@@ -45,7 +45,8 @@ SPANISH GRAMMAR IN CONTEXT
 ## Religion Course
 RELIGION AND POPULAR CULTURE
 
-## Mathematics Courses
-CALCULUS AB/BC (High School Credits)
-STATISTICS (High School Credits)
+## Mathematics/Statistics Courses
+AP CALCULUS AB/BC
+AP STATISTICS
 CALCULUS FOR THE LIFE SCIENCE II
+APPLIED STATISTICAL METHOD FOR BIOMEDICAL INFORMATICS </br>	
